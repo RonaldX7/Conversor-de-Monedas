@@ -12,28 +12,24 @@
   
   Clona el repositorio:
   
-  sh
-  Copiar código
-  git clone https://github.com/tu-usuario/conversor-de-monedas.git
+  ´´´git clone https://github.com/tu-usuario/conversor-de-monedas.git´´´
+  
   Navega al directorio del proyecto:
   
-  sh
-  Copiar código
   cd conversor-de-monedas
+  
   Compila el proyecto usando Maven:
   
-  sh
-  Copiar código
   mvn clean install
-  Uso
+  
+  <h2>Uso</h2>
   Ejecuta la aplicación:
   
-  sh
-  Copiar código
   java -jar target/conversor-de-monedas-1.0.jar
+
   Sigue las instrucciones en pantalla para convertir monedas.
   
-  Introduce la cantidad que deseas convertir.
-  Selecciona las monedas de origen y destino.
-  Visualiza la cantidad convertida.
+  - Introduce la cantidad que deseas convertir.
+  - Selecciona las monedas de origen y destino.
+  - Visualiza la cantidad convertida.
   </p>
