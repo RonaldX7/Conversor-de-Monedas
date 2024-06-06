@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 public class ConsultaMoneda {
 
-    String ApiKey = "6631f0b046c15459d3c56c04";
+    String ApiKey = "YOUR_API_KEY";
 
     public Moneda buscaMoneda(String baseCode, String targetCode, double monto){
 
