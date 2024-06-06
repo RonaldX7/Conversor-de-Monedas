@@ -14,21 +14,15 @@
   
   Clona el repositorio:
   
-  ```git clone https://github.com/tu-usuario/conversor-de-monedas.git```
+  ```git clone https://github.com/RonaldX7/Conversor-de-Monedas.git```
   
   Navega al directorio del proyecto:
   
-  ```cd conversor-de-monedas```
+  ```cd Conversor-de-Monedas```
   
   Compila el proyecto usando Maven:
   
   ```mvn clean install```
-  
-  <h2>Uso</h2>
-  
-  Ejecuta la aplicación:
-  
-  ```java -jar target/conversor-de-monedas-1.0.jar```
 
   Sigue las instrucciones en pantalla para convertir monedas.
   
