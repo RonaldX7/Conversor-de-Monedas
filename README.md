@@ -20,7 +20,7 @@
   
   ```cd Conversor-de-Monedas```
   
-  Compila el proyecto usando Maven:
+  Compila los archivos Java:
   
   ```javac -d bin src/*.java```
 
