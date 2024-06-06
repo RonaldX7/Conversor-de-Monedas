@@ -22,7 +22,9 @@
   
   Compila el proyecto usando Maven:
   
-  ```mvn clean install```
+  ```javac -d bin src/*.java```
+
+  Asegúrate de que la carpeta ```bin``` contiene todos los archivos ```.class``` compilados.
 
   Sigue las instrucciones en pantalla para convertir monedas.
   
