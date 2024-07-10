@@ -1,14 +1,14 @@
 <h1>Conversor de Monedas</h1>
 <p>
   ¡Bienvenido al proyecto Conversor de Monedas! Esta aplicación basada en Java permite a los usuarios convertir valores entre diferentes monedas utilizando las tasas de cambio más recientes.
-  <h2>Características</h2>
+  <h2>📚Características</h2>
   
   - Convierte montos entre múltiples monedas.
   - Obtiene tasas de cambio en tiempo real desde una API confiable.
   - Interfaz de línea de comandos fácil de usar.
   - Manejo de errores para entradas inválidas y problemas de API.
   
-  <h2>Instalación</h2>
+  <h2>🚀Instalación</h2>
   
   Para ejecutar este proyecto localmente, sigue estos pasos:
   
